@@ -7,4 +7,4 @@
 - **MONGODB** -- For storing users data
 
 ## Live Demo
-<a href="https://aquawave.onrender.com/" target=_blank>View</a>
+<a href="https://aquawave.onrender.com/" target="_blank">View</a>
