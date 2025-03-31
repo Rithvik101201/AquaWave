@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Feelings Fade",
+    "artist": "Wwings, jeonghyeon",
+    "genre": "Future House",
+    "year": 2025,
+    "duration": "3:02",
+    "file_path": "songs/Feelings Fade.mp3",
+    "coverImg": "img/feelings fade.jpg"
+  },
+  {
+    "title": "Perfection",
+    "artist": "Mangoo, B3nte, Derek Cate",
+    "genre": "House",
+    "year": 2024,
+    "duration": "2:43",
+    "file_path": "songs/Perfection.mp3",
+    "coverImg": "img/perfection.jpg"
+  },
+  {
+    "title": "On and On",
+    "artist": "Sayfro, BAYZY",
+    "genre": "House",
+    "year": 2024,
+    "duration": "2:03",
+    "file_path": "songs/On and On.mp3",
+    "coverImg": "img/on and on.jpg"
+  },
+  {
+    "title": "Like Rain",
+    "artist": "Rameses B",
+    "genre": "Drum & Bass",
+    "year": 2024,
+    "duration": "3:25",
+    "file_path": "songs/Like Rain.mp3",
+    "coverImg": "img/like rain.jpg"
+  },
+  {
+    "title": "Retrospective",
+    "artist": "Alex Skrindo, JJD",
+    "genre": "Glitch Hop",
+    "year": 2024,
+    "duration": "3:12",
+    "file_path": "songs/Retrospective.mp3",
+    "coverImg": "img/retrospective.jpg"
+  },
+  {
+    "title": "Comet",
+    "artist": "Keepsake, Skybreak",
+    "genre": "Drumstep",
+    "year": 2024,
+    "duration": "3:50",
+    "file_path": "songs/Comet.mp3",
+    "coverImg": "img/comet.jpg"
+  },
+  {
+    "title": "Gone For Good",
+    "artist": "Rival, Jim Yosef, Alaina Cross",
+    "genre": "Melodic Dubstep",
+    "year": 2023,
+    "duration": "3:01",
+    "file_path": "songs/Gone For Good.mp3",
+    "coverImg": "img/gone for good.jfif"
+  },
+  {
+    "title": "Closer",
+    "artist": "ROY KNOX",
+    "genre": "Dubstep",
+    "year": 2023,
+    "duration": "3:36",
+    "file_path": "songs/Closer.mp3",
+    "coverImg": "img/closer.jpg"
+  },
+  {
+    "title": "Paradise",
+    "artist": "N3WPORT, Britt Lari",
+    "genre": "Drumstep",
+    "year": 2024,
+    "duration": "2:43",
+    "file_path": "songs/Paradise.mp3",
+    "coverImg": "img/paradise.jpg"
+  },
+  {
+    "title": "Mortals x Royalty Mashup",
+    "artist": "Egzod, Neoni, Maestro Chives, Warriyo",
+    "genre": "Drumstep",
+    "year": 2024,
+    "duration": "3:44",
+    "file_path": "songs/Mortals.mp3",
+    "coverImg": "img/mortals.jpg"
+  }
+]
