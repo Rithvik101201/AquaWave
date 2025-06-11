@@ -4,7 +4,7 @@
 - **JavaScript**
 - **Node.js** 
 - **Express.js**
-- **MongoDB** -- For storing users data
+- **MongoDB**
 
 ## Default login details for authentication
 - Email : test@gmail.com
